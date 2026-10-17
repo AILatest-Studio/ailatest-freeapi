@@ -96,6 +96,10 @@ print(response.choices[0].message.content)
 
 ---
 
+### 🏷 Related Topics & Search Keywords
+`free-api` · `free-llm-api` · `deepseek-r1` · `deepseek-v4.1` · `groq-lpu` · `gemini-api` · `github-models` · `cursor-api` · `nextchat-api` · `cherry-studio-api` · `cline-api` · `openai-compatible` · `latency-playground`
+
+---
 <a id="chinese"></a>
 <p align="right">
   <a href="#top"><b>Back to Top (English)</b></a> | <b>中文说明</b>
@@ -118,3 +122,6 @@ print(response.choices[0].message.content)
 4. **一键接入代码生成器**：一键生成适用于各大开源客户端及主流编程语言的初始化配置代码。
 
 🌐 **立即在线体验**：[**https://freeapi.ailatest.org/**](https://freeapi.ailatest.org/)
+
+### 🏷 热门搜索关键词与相关主题
+`免费API` · `免绑卡大模型` · `免费AI接口` · `DeepSeek免费API` · `Groq免费接口` · `Gemini免费额度` · `ChatGPT替代` · `Cursor配置API` · `NextChat免费接口` · `国内直连AI` · `免信用卡`
